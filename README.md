@@ -33,7 +33,7 @@ A flexible and extensible simulation framework for AI-driven agent-based simulat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/arbyun/Simulation-Toolkit-AI.git
+git clone https://github.com/VideojogosLusofona/SimArena.git
 ```
 
 2. Open the solution in your preferred IDE (Visual Studio, Rider, etc.)
@@ -336,7 +336,7 @@ flowchart TD
 ## Game Engines
 
 This project is engine agnostic, meaning that it can safely be used with any game engine that supports C#. 
-For a Unity implementation example, check out the [Examples](https://github.com/arbyun/Simulation-Toolkit-AI-Examples) repository.
+For a Unity implementation example, check out the [Examples](https://github.com/VideojogosLusofona/SimArena-Unity-Example) repository.
 
 ## Credits
 
